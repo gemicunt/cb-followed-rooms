@@ -1,0 +1,31 @@
+{
+  "name": "cb-followed-rooms",
+  "version": "1.0.0",
+  "description": "Node.js client for Chaturbate Followed Online Rooms API with pagination, search, and visualization support",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node examples/basic.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "chaturbate",
+    "api",
+    "client",
+    "followed-rooms",
+    "pagination"
+  ],
+  "author": "Alleycat Development",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gemicunt/cb-followed-rooms.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gemicunt/cb-followed-rooms/issues"
+  },
+  "homepage": "https://github.com/gemicunt/cb-followed-rooms#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
